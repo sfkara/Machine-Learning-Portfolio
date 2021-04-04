@@ -6,4 +6,4 @@
     3.Screen time(Calculate Screen time of actor.Includes video and frames)
     4.CNN-1 (Convolution example)
     5.Model Building for recipes
-    6.Tensorflow recipes
+    6.Tensorflow exercises
